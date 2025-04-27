@@ -1,2 +1,2 @@
-# public-docs
+# Public docs
 Public documents of the organisation
