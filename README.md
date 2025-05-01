@@ -6,7 +6,7 @@ Public documents of the organisation
 
 ## Directories structure
 
-/..
+/
 
 ├ **imgs** *`images`*
 
