@@ -1,6 +1,4 @@
-**Labor as Capital**: International Accelerator of Systems for Outcall Services,
-
-**Decentralized Autonomous Organization**
+**Labor as Capital**: International Accelerator of Systems for Outcall Services, **Decentralized Autonomous Organization**
 
 
 
