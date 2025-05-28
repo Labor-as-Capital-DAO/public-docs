@@ -16,7 +16,7 @@ Public documents of the organisation
 
 ├ **locals** *`directories of dublicate of docs in other languages`*
 
-│ &nbsp;├`<language codes as subdirectory name>`
+│ &nbsp;├`<language name in original letters as subdirectory name>`
 
 │ &nbsp;└...
 
