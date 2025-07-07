@@ -26,4 +26,4 @@ subscribe to updates from this repository
 first to receive notifications about changes.*
 
 ## References
-[^1] First
+<span style="color:blue">some *blue* text</span>.
