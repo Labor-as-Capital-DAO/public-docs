@@ -8,7 +8,7 @@
 
 
 
-Alik Xandro [[1]](#1)
+Alik Xandro [^1]
 
 alikxandro@e-gove.net
 
@@ -26,4 +26,4 @@ subscribe to updates from this repository
 first to receive notifications about changes.*
 
 ## References
-<a id="1">[1]</a> First
+[^1] First
