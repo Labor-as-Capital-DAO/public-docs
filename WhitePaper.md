@@ -8,7 +8,7 @@
 
 
 
-Alik Xandro
+Alik Xandro [[1]](#1)
 
 alikxandro@e-gove.net
 
@@ -24,3 +24,6 @@ the organization at [https://github.com/Labor-as-Capital-DAO]() and
 subscribe to updates from this repository
 [https://github.com/Labor-as-Capital-DAO/public-docs]() to be among the
 first to receive notifications about changes.*
+
+## References
+<a id="1">[1]</a> First
