@@ -4,9 +4,9 @@
 
 ## *IASOS LaC DAO*
 
-Alik Xandro [^1]
+Alik Xandro
 
-[alikxandro@e-gove.net](mailto:alikxandro@e-gove.net?subject="LaC White Paper")
+[alikxandro@e-gove.net](mailto:alikxandro@e-gove.net?subject=LaC%20White%20Paper)
 
 [www.github.com/Labor-as-Capital-DAO](http://www.github.com/Labor-as-Capital-DAO)
 
@@ -18,7 +18,6 @@ LaC DAO has its own unique token on blockchain networks, which enables participa
 
 These tokens can also be listed on stocks, exchanges, and trading platforms, making them a financial instrument that reflects the state of the outcall services market worldwide.
 
-<<<<<<< HEAD
 The unique technical and engineering-intellectual resources of LaC DAO include the exclusive commercial representation of the **Internet of Labour** ecosystem/platform and a partnership with **Distributed Digital Nomads** — developers of iol-apps: applications built on the Internet of Labour platform.
 
 The more iol-businesses are included in the LaC DAO portfolio and the more users they have, the higher the value of the LaC DAO token. At the same time, the token's value does not depend on the profitability of the companies in the portfolio.
@@ -479,13 +478,3 @@ At the same time, this is a **governance token** of LaC DAO, allowing holders to
 <a id="14">[14]</a>  Wikipedia, "Git", https://wikipedia.org/wiki/Git , 2005.
 
 **Disclaimer:** This White Paper is a free-form presentation and may not include references to all original or exceptional authors. Any claims or suggestions from original authors should be sent exclusively to my email.
-=======
-*The full content of this document will be published soon. Please follow
-the organization at [https://github.com/Labor-as-Capital-DAO]() and
-subscribe to updates from this repository
-[https://github.com/Labor-as-Capital-DAO/public-docs]() to be among the
-first to receive notifications about changes.*
-
-## References
-<a style="color:blue">some *blue* text</a>.
->>>>>>> 9450bcd566ec7a63c646fc069568770022f20118
