@@ -447,6 +447,14 @@ At the same time, this is a **governance token** of LaC DAO, allowing holders to
 
 - Supporting ***employment in private outcall services*** and ***curbing the growth of street crime***.
 
+Human labor is the most essential link in the economy. It is the foundation of all economic activity — without it, there can be no products, no money, no technology, and no knowledge. Human civilization is, above all, a civilization of labor.
+
+The **LaC DAO token**, which is tied to labor performed individually through on-site services, has a strictly limited supply. Its price can serve not only as a measure of value but also as an **index of outcall services** and the performance of iol-businesses.
+
+The more labor is performed by users of iol-apps, the fewer LaC DAO tokens there are per unit of labor — meaning the **real value of the LaC DAO token can only grow over time**.
+
+For detailed information on the organization and governance of IASOS Labor as Capital DAO, as well as the regulation of its token, refer to the Purple Book of the Labor as Capital DAO [[4]](#4).
+
 ### References
 
 <a id="1">[1]</a>  Wikipedia, "Decentralized Finance", https://wikipedia.org/wiki/Decentralized_finance , 2020.
