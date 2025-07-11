@@ -2,7 +2,7 @@
 
 # *Labor as Capital DAO*
 
-## *IASOS LaC DAO*
+## ***IASOS LaC DAO***
 
 Alik Xandro
 
