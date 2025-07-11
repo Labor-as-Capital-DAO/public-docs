@@ -447,7 +447,7 @@ At the same time, this is a **governance token** of LaC DAO, allowing holders to
 
 - Supporting ***employment in private outcall services*** and ***curbing the growth of street crime***.
 
-Human labor is the most essential link in the economy. It is the foundation of all economic activity — without it, there can be no products, no money, no technology, and no knowledge. Human civilization is, above all, a civilization of labor.
+Human labor is the most essential link in the economy. It is the foundation of all economic activity — without it, there can be no production, no money, no technology, no education, no electricity, and no food. Human civilization is, above all, a civilization of labor.
 
 The **LaC DAO token**, which is tied to labor performed individually through on-site services, has a strictly limited supply. Its price can serve not only as a measure of value but also as an **index of outcall services** and the performance of iol-businesses.
 
