@@ -8,8 +8,8 @@
 
 # Purple Book
 
-&nbsp;
-&nbsp;
+&nbsp;  
+&nbsp;  
 
 ## Headlines with links
 
@@ -23,7 +23,7 @@ Intellectual Resources [[IntelRes]](#IntelRes)
 
 Currency Resources [[CurrRes]](#CurrRes)
 
-   Special Conditions [[CurrRes-spec]](#CurrRes-spec)
+&emsp; Special Conditions [[CurrRes-spec]](#CurrRes-spec)
 
 Official Information Channels [[OfInfoCh]](#OfInfoCh)
 
@@ -180,8 +180,7 @@ The White Paper provides the rationale behind the plans and actions described in
 The Internet of Labour ecosystem/platform has absorbed an enormous amount of intellectual resources and professional experience. Labor as Capital DAO [[LaC]](#LaC), as the holder of exclusive access to iol [[iol]](#iol), inherits this resource. As LaC achieves its goals and expands its portfolio, it multiplies this legacy of resources.
 
 &nbsp;
-
-   <a id="TM">[TM]</a> **Technical Management:**
+    <a id="TM">[TM]</a> **Technical Management:**
 
 DDN [[DDN]](#DDN) are holders of the LaC Token and are ready to execute technical tasks on behalf of LaC, including making changes and additions to iol. DDN track updates in the Purple Book and align their technical components accordingly. All initiated and completed tasks are logged in the file: [https://github.com/Labor-as-Capital-DAO/public-docs/blob/main/TM-Exec.md](https://github.com/Labor-as-Capital-DAO/public-docs/blob/main/TM-Exec.md). DDN may also provide technical support to iol-providers whose iol-businesses aim to be included in the LaC portfolio.
 
@@ -192,7 +191,7 @@ Admins of official information channels [[OfInfoCh]](#OfInfoCh) and iol authors 
 TM has its own Reserve Wallet [[ResWallet]](#ResWallet) with a significant amount of LaC Tokens allocated for technical resources and their development.
 
 &nbsp;
-   <a id="MM">[MM]</a> **Media Management:**
+    <a id="MM">[MM]</a> **Media Management:**
 
 This includes Information Partners [[infop]](#infop) and anyone who disseminates information about LaC’s activities in Media and Public Relations [[pr]](#pr) platforms, in a way that supports LaC’s goals and does not contradict its official documents. MM materials include all other types of public communication about LaC: posts, articles, blogs, podcasts, short videos, presentations, public speeches, exhibitions, advertisements, books, etc.
 
@@ -201,8 +200,7 @@ MM receives a significant share of LaC Tokens at the start and controls their di
 Moderators of official information channels [[OfInfoCh]](#OfInfoCh) are also part of MM.
 
 &nbsp;
-
-   <a id="FM">[FM]</a> **Financial Management:**
+    <a id="FM">[FM]</a> **Financial Management:**
 
 Since LaC is a DeFi entity, any LaC Token holder may use their tokens at their own discretion, including exchanging them for fiat or vice versa. The signers of Reserve Wallets [[ResWallet]](#ResWallet) participate in LaC's financial management by exercising their right to sign Reserve Wallet transactions.
 
