@@ -23,73 +23,73 @@ Intellectual Resources [[IntelRes]](#IntelRes)
 
 Currency Resources [[CurrRes]](#CurrRes)
 
-&emsp; Special Conditions [[CurrRes-spec]](#CurrRes-spec)
+ &emsp; Special Conditions [[CurrRes-spec]](#CurrRes-spec)
 
 Official Information Channels [[OfInfoCh]](#OfInfoCh)
 
-   Community Chats [[OfInfoCh-chats]](#OfInfoCh-chats)
+ &emsp; Community Chats [[OfInfoCh-chats]](#OfInfoCh-chats)
 
 Roadmap [[RMap]](#RMap)
 
-   Initialization of Media Management [[RMap-MMInit]](#RMap-MMInit)
+ &emsp; Initialization of Media Management [[RMap-MMInit]](#RMap-MMInit)
 
-   LaC Token Issuance and Distribution [[RMap-TIssue]](#RMap-TIssue)
+ &emsp; LaC Token Issuance and Distribution [[RMap-TIssue]](#RMap-TIssue)
 
-   Listing LaC Token on DEX via NiXeL [[RMap-TDex]](#RMap-TDex)
+ &emsp; Listing LaC Token on DEX via NiXeL [[RMap-TDex]](#RMap-TDex)
 
-   Initial Price Determination for LaC Token and distribution to LaC-iol Synchronization participants [[RMap-TInitPrice]](#RMap-TInitPrice)
+ &emsp; Initial Price Determination for LaC Token and distribution to LaC-iol Synchronization participants [[RMap-TInitPrice]](#RMap-TInitPrice)
 
-   Onboarding the First iol-Business to LaC Portfolio [[RMap-PortfFirst]](#RMap-PortfFirst)
+ &emsp; Onboarding the First iol-Business to LaC Portfolio [[RMap-PortfFirst]](#RMap-PortfFirst)
 
 Security and Responsibility [[Sec]](#Sec)
 
 Instructions and Regulations [[Instr]](#Instr)
 
-   Basic Rules [[Instr-Base]](#Instr-Base)
+ &emsp; Basic Rules [[Instr-Base]](#Instr-Base)
 
-   How to Use the NiXeL App [[Instr-NiXeL]](#Instr-NiXeL)
+ &emsp; How to Use the NiXeL App [[Instr-NiXeL]](#Instr-NiXeL)
 
-   Reserving LaC Token via Currency Resource [[Instr-PreTokenCurr]](#Instr-PreTokenCurr)
+ &emsp; Reserving LaC Token via Currency Resource [[Instr-PreTokenCurr]](#Instr-PreTokenCurr)
 
-   Joining Media Management [[Instr-MM]](#Instr-MM)
+ &emsp; Joining Media Management [[Instr-MM]](#Instr-MM)
 
-   Payment Rates for Media Management Activities [[Instr-MMPrice]](#Instr-MMPrice)
+ &emsp; Payment Rates for Media Management Activities [[Instr-MMPrice]](#Instr-MMPrice)
 
-   LaC Token for Media Partners during LaC-iol Synchronization [[Instr-MMGetSin]](#Instr-MMGetSin)
+ &emsp; LaC Token for Media Partners during LaC-iol Synchronization [[Instr-MMGetSin]](#Instr-MMGetSin)
 
-   For Board of Frontmen Members [[Instr-BoF]](#Instr-BoF)
+ &emsp; For Board of Frontmen Members [[Instr-BoF]](#Instr-BoF)
 
-   LaC Token Allocation to Reserve Wallets [[Instr-TokenAssign]](#Instr-TokenAssign)
+ &emsp; LaC Token Allocation to Reserve Wallets [[Instr-TokenAssign]](#Instr-TokenAssign)
 
-   Reserve Wallet "#0 Insurance" Rules [[Instr-RWInsur]](#Instr-RWInsur)
+ &emsp; Reserve Wallet "#0 Insurance" Rules [[Instr-RWInsur]](#Instr-RWInsur)
 
-   Reserve Wallet "#1 Media Management" Rules [[Instr-RWMM]](#Instr-RWMM)
+ &emsp; Reserve Wallet "#1 Media Management" Rules [[Instr-RWMM]](#Instr-RWMM)
 
-   Reserve Wallet "#2 Tech Management" Rules [[Instr-RWTM]](#Instr-RWTM)
+ &emsp; Reserve Wallet "#2 Tech Management" Rules [[Instr-RWTM]](#Instr-RWTM)
 
-   Reserve Wallet "#3 Security & Charity" Rules [[Instr-RWSec]](#Instr-RWSec)
+ &emsp; Reserve Wallet "#3 Security & Charity" Rules [[Instr-RWSec]](#Instr-RWSec)
 
-   Reserve Wallet "#4 Financial Management" Rules [[Instr-RWFM]](#Instr-RWFM)
+ &emsp; Reserve Wallet "#4 Financial Management" Rules [[Instr-RWFM]](#Instr-RWFM)
 
-   Reserve Wallet "#5 Governance / Power" Rules [[Instr-RWGov]](#Instr-RWGov)
+ &emsp; Reserve Wallet "#5 Governance / Power" Rules [[Instr-RWGov]](#Instr-RWGov)
 
-   Reserve Wallet "#6 Accelerator of Labor as Capital DAO" Rules [[Instr-RWInvest]](#Instr-RWInvest)
+ &emsp; Reserve Wallet "#6 Accelerator of Labor as Capital DAO" Rules [[Instr-RWInvest]](#Instr-RWInvest)
 
-   Reserve Wallet Reset [[Instr-RWReset]](#Instr-RWReset)
+ &emsp; Reserve Wallet Reset [[Instr-RWReset]](#Instr-RWReset)
 
-   Determining the Initial Price of LaC Token [[Instr-TInitPrice]](#Instr-TInitPrice)
+ &emsp; Determining the Initial Price of LaC Token [[Instr-TInitPrice]](#Instr-TInitPrice)
 
-   Application of iol-Business / Startup to the LaC DAO Accelerator [[Instr-BizAppy]](#Instr-BizAppy)
+ &emsp; Application of iol-Business / Startup to the LaC DAO Accelerator [[Instr-BizAppy]](#Instr-BizAppy)
 
-   Voting by LaC Token [[Instr-TVote]](#Instr-TVote)
+ &emsp; Voting by LaC Token [[Instr-TVote]](#Instr-TVote)
 
-   Investment in Development of iol-Business / Startup [[Instr-BizInvest]](#Instr-BizInvest)
+ &emsp; Investment in Development of iol-Business / Startup [[Instr-BizInvest]](#Instr-BizInvest)
 
-   Governing Principles for Security [[Instr-g4s]](#Instr-g4s)
+ &emsp; Governing Principles for Security [[Instr-g4s]](#Instr-g4s)
 
 Key Events Log [[Log]](#Log)
 
-&nbsp;
+&nbsp;  
 
 ## Introduction
 
@@ -109,7 +109,7 @@ Before reviewing the Purple Book, it is recommended to carefully study the White
 
 The White Paper provides the rationale behind the plans and actions described in the Purple Book and other documents. The original Purple Book also includes always-updated links to secondary information resources of LaC DAO and community chats in different languages.
 
-&nbsp;
+&nbsp;  
 
 ## Abbreviations and Definitions
 
@@ -122,7 +122,9 @@ The White Paper provides the rationale behind the plans and actions described in
 <a id="DDN">[DDN]</a> **DDN**. Distributed Digital Nomads, a community of highly skilled freelance IT specialists from different countries. DDN specializes in creating iol-apps and closely collaborates with the authors of iol. Some iol [[iol]](#iol) authors may be members of DDN. Open resources of iol-providers from DDN: [https://github.com/Distributed-Digital-Nomads](https://github.com/Distributed-Digital-Nomads).
 
 **TM** : Technical management [[TM]](#TM) of LaC.
+
 **MM** : Media management [[MM]](#MM) of LaC.
+
 **FM** : Financial management [[FM]](FM) of LaC.
 
 **DeFi** : Decentralized Finance, [https://wikipedia.org/wiki/Decentralized_finance](https://wikipedia.org/wiki/Decentralized_finance).
@@ -153,7 +155,7 @@ The White Paper provides the rationale behind the plans and actions described in
 
 <a id="r2im">[r2im]</a> **Reaction to informational material** : user actions on informational platforms like social networks, video platforms, messengers, forums, and user groups, in response to content published there. These actions include: like/dislike, comment, share, rating, etc.
 
-&nbsp;
+&nbsp;  
 
 ## Technical Resources
 
@@ -171,7 +173,7 @@ The White Paper provides the rationale behind the plans and actions described in
 
 <a id="nxl">[nxl]</a> **NiXeL**. A special iol-app, an Android application with access to dedicated iol Web3 APIs. Available in Google Play: [https://play.google.com/store/apps/details?id=space.diamo.iol.nixel](https://play.google.com/store/apps/details?id=space.diamo.iol.nixel)
 
-&nbsp;
+&nbsp;  
 
 ## Intellectual Resources
 
@@ -179,8 +181,9 @@ The White Paper provides the rationale behind the plans and actions described in
 
 The Internet of Labour ecosystem/platform has absorbed an enormous amount of intellectual resources and professional experience. Labor as Capital DAO [[LaC]](#LaC), as the holder of exclusive access to iol [[iol]](#iol), inherits this resource. As LaC achieves its goals and expands its portfolio, it multiplies this legacy of resources.
 
-&nbsp;
-    <a id="TM">[TM]</a> **Technical Management:**
+&nbsp; 
+
+ &emsp; <a id="TM">[TM]</a> **Technical Management:**
 
 DDN [[DDN]](#DDN) are holders of the LaC Token and are ready to execute technical tasks on behalf of LaC, including making changes and additions to iol. DDN track updates in the Purple Book and align their technical components accordingly. All initiated and completed tasks are logged in the file: [https://github.com/Labor-as-Capital-DAO/public-docs/blob/main/TM-Exec.md](https://github.com/Labor-as-Capital-DAO/public-docs/blob/main/TM-Exec.md). DDN may also provide technical support to iol-providers whose iol-businesses aim to be included in the LaC portfolio.
 
@@ -190,8 +193,9 @@ Admins of official information channels [[OfInfoCh]](#OfInfoCh) and iol authors 
 
 TM has its own Reserve Wallet [[ResWallet]](#ResWallet) with a significant amount of LaC Tokens allocated for technical resources and their development.
 
-&nbsp;
-    <a id="MM">[MM]</a> **Media Management:**
+&nbsp; 
+
+ &emsp; <a id="MM">[MM]</a> **Media Management:**
 
 This includes Information Partners [[infop]](#infop) and anyone who disseminates information about LaC’s activities in Media and Public Relations [[pr]](#pr) platforms, in a way that supports LaC’s goals and does not contradict its official documents. MM materials include all other types of public communication about LaC: posts, articles, blogs, podcasts, short videos, presentations, public speeches, exhibitions, advertisements, books, etc.
 
@@ -199,8 +203,9 @@ MM receives a significant share of LaC Tokens at the start and controls their di
 
 Moderators of official information channels [[OfInfoCh]](#OfInfoCh) are also part of MM.
 
-&nbsp;
-    <a id="FM">[FM]</a> **Financial Management:**
+&nbsp;  
+
+&emsp; <a id="FM">[FM]</a> **Financial Management:**
 
 Since LaC is a DeFi entity, any LaC Token holder may use their tokens at their own discretion, including exchanging them for fiat or vice versa. The signers of Reserve Wallets [[ResWallet]](#ResWallet) participate in LaC's financial management by exercising their right to sign Reserve Wallet transactions.
 
@@ -224,7 +229,7 @@ The volume and use of incoming Currency Resources during the LaC-iol synchroniza
 
 FM has its own Reserve Wallet [[ResWallet]](#ResWallet) with a significant amount of LaC Tokens designated for expenses related to traditional finance.
 
-&nbsp;
+&nbsp;  
 
 ## Currency Resources
 
@@ -232,11 +237,11 @@ FM has its own Reserve Wallet [[ResWallet]](#ResWallet) with a significant amoun
 
 Currency resources include fiat currencies of all countries and the top 20 liquid cryptocurrencies by daily trading volume on major crypto exchanges. Anyone using a currency resource in relation to the LaC Token is directly participating in Financial Management [[FM]](#FM), which is a ***real implementation of DeFi***. In the same way, through the LaC Token, iol-businesses can receive this resource when needed for the objectives stated in their application to the Labor as Capital DAO [[LaC]](#LaC) portfolio.
 
-&nbsp;
+&nbsp;  
 
 ### Special conditions
 
-   <a id="CurrRes-spec">[CurrRes-spec]</a>
+ &emsp; <a id="CurrRes-spec">[CurrRes-spec]</a>
 
 The right to the LaC Token can be acquired using currency resources [[CurrRes]](#CurrRes) before the official release of the LaC Token. This is the lowest-cost and fastest method of acquiring the LaC Token, with the following benefits:
 
@@ -252,7 +257,7 @@ The right to the LaC Token can be acquired using currency resources [[CurrRes]](
 
 Instructions for advance reservation of LaC Token using currency resources are available in [[Instr-PreTokenCurr]](#Instr-PreTokenCurr).
 
-&nbsp;
+&nbsp;  
 
 ## Official Information Channels
 
@@ -268,11 +273,11 @@ Channels not listed here are not controlled by the resources of Labor as Capital
 
 - [https://linkedin.com/company/iasos-lac](https://linkedin.com/company/iasos-lac) : LaC page on LinkedIn.
 
-&nbsp;
+&nbsp;  
 
 ### Community chats
 
-   <a id="OfInfoCh-chats">[OfInfoCh-chats]</a>
+ &emsp; <a id="OfInfoCh-chats">[OfInfoCh-chats]</a>
 
 - [https://github.com/Labor-as-Capital-DAO/public-docs/issues](https://github.com/Labor-as-Capital-DAO/public-docs/issues) : Discussion of LaC organization topics, improvements, issues, and inconsistencies.
 
@@ -282,7 +287,7 @@ Channels not listed here are not controlled by the resources of Labor as Capital
 
 - [https://bitcointalk.org/index.php?topic=5545132.0](https://bitcointalk.org/index.php?topic=5545132.0) : Labor as Capital DAO topic on BitcoinTalk.
 
-&nbsp;
+&nbsp;  
 
 ## Roadmap
 
@@ -306,14 +311,14 @@ A timeline chart of the Road Map is shown schematically below.
 
 The detailed procedural descriptions follow. 
 
-&nbsp;
+&nbsp;  
 
 ### Initialization of Media Management
 
-     <a id="RMap-MMInit">[RMap-MMInit]</a>
+ &emsp; <a id="RMap-MMInit">[RMap-MMInit]</a>
 
-**Period**: *{from the moment of the Purple Book publication until the onboarding of the first 3 media partners into the BoF}*.
-**Involved resources**: MM [[MM]](#MM), TM [[TM]](#TM).
+**Period**: *{from the moment of the Purple Book publication until the onboarding of the first 3 media partners into the BoF}*.  
+**Involved resources**: MM [[MM]](#MM), TM [[TM]](#TM).  
 **Description**: Attracting media partners to cover LaC’s activities. This period continues until the following goals are achieved:
 
 (i) at least 1 million unique views of the White Paper of IASOS LaC DAO;
@@ -327,38 +332,39 @@ The formation of Technical Management [[TM]](#TM) took place during the period w
 The procedure and conditions for joining MM are described in [[Instr-MM]](#Instr-MM).
 
 The procedure and conditions for BoF members are in [[Instr-BoF]](#Instr-BoF).
-&nbsp;
+
+&nbsp;  
 
 ### LaC Token Issuance and Distribution
 
-   <a id="RMap-TIssue">[RMap-TIssue]</a>
+ &emsp; <a id="RMap-TIssue">[RMap-TIssue]</a>
 
-**Period**: *{2 weeks after the MM initialization}*.
-**Involved resources**: TM [[TM]](#TM).
+**Period**: *{2 weeks after the MM initialization}*.  
+**Involved resources**: TM [[TM]](#TM).  
 **Description**: By this time, active participants of LaC's intellectual resource have been identified, both in TM and MM [[MM]](#MM), whose addresses will be included as signers of the corresponding Reserve Wallets [[RezWallet]](#RezWallet). Now the LaC Token can be issued and distributed to the Reserve Wallets according to the rules in [[Instr-TokenAssign]](#Instr-TokenAssign). This kind of distribution removes sole control of LaC Tokens from the TM specialist involved in the token issuance.
 
-&nbsp;
+&nbsp;  
 
 ### Listing LaC Token on DEX via NiXeL
 
-   <a id="RMap-TDex">[RMap-TDex]</a>
+ &emsp; <a id="RMap-TDex">[RMap-TDex]</a>
 
-**Period**: *{~2 weeks after token distribution to reserve wallets}*.
-**Involved resources**: TM [[TM]](#TM).
+**Period**: *{~2 weeks after token distribution to reserve wallets}*.  
+**Involved resources**: TM [[TM]](#TM).  
 **Description**: NiXeL [[nxl]](#nxl) already has SINHRO [[sinhro]](#sinhro) exchange to various currencies implemented, demo video [https://youtu.be/wp6TUPTZb_E](https://youtu.be/wp6TUPTZb_E). During this period, developers from TM add similar functionality for the LaC Token using the iol Pool [[pool]](#pool), release an instruction and a demo video of the LaC Token DEX, and publish this news in LaC's official information channels [[OfInfoCh]](OfInfoCh). Thus, the LaC Token becomes immediately convertible to currencies and SINHRO through the free already market-accessible Android app named NiXeL.
 
 SINHRO to LaC Token convertibility enables TM and iol [[iol]](#iol) authors who receive SINHRO for their work to obtain LaC Tokens.
 
 Changes and improvements to the DEX in NiXeL can be proposed by any user through the usual process. Since the LaC Token is on blockchain, further listings on other existing DEXes and crypto exchanges may be carried out independently of LaC's TM.
 
-&nbsp;
+&nbsp;  
 
 ### Initial Price Determination for LaC Token and distribution to LaC-iol Synchronization participants
 
-   <a id="RMap-TInitPrice">[RMap-TInitPrice]</a>
+ &emsp; <a id="RMap-TInitPrice">[RMap-TInitPrice]</a>
 
-**Period**: *{~3 weeks after [[RMap-TDex]](#RMap-TDex)}*.
-**Involved resources**: Entire intellectual resource [[IntelRes]](#IntelRes).
+**Period**: *{~3 weeks after [[RMap-TDex]](#RMap-TDex)}*.  
+**Involved resources**: Entire intellectual resource [[IntelRes]](#IntelRes).  
 **Description**: Initially, before the MM [[MM]](#MM) initialization, SINHRO was held only by iol [[iol]](#iol) authors (issued solely for their labor) and those who managed to exchange currency for SINHRO from the authors in NiXeL. Some of these SINHRO were transferred to LaC-iol synchronization participants as described in the instructions, including those who participated with currency resources. Now all SINHRO holders can submit requests in NiXeL to exchange SINHRO for LaC Tokens, specifying desired amount and rate. These requests will be processed according to [[Instr-TInitPrice]](#Instr-TInitPrice) from the appropriate Reserve Wallets [[ResWallet]](#ResWallet), determining the initial rate of the LaC Token based on the preferences of LaC-iol synchronization participants — i.e., the founders of Labor as Capital DAO.
 
 This method of determining the initial price of the LaC Token is optimal because anyone who wants to acquire LaC Tokens at this time faces a dilemma: on one hand, they are not interested in a low LaC Token price; on the other hand, they don’t want to lose too much SINHRO, which generates income from iol-app commissions. On a third side, a lower valuation of LaC Token relative to SINHRO increases SINHRO's value, meaning its exchange rate may surge.
@@ -377,14 +383,14 @@ The SINHRO exchange rate is hard to suppress because:
 
 The initial LaC Token rate relative to fiat currencies can also be determined: iol supports over 50 national currencies, which are selectable for LaC Token exchange in NiXeL along with SINHRO. The initial rate relative to Bitcoin can be calculated via cross-rate, e.g., through USD. However, TM [[TM]](#TM) plans to add several popular cryptocurrencies, including Bitcoin, after implementing the iol Pool [[pool]](#pool) for the LaC Token, ensuring it's actually needed by most LaC Token holders.
 
-&nbsp;
+&nbsp;  
 
 ### Onboarding the First iol-Business to LaC Portfolio
 
-   <a id="RMap-PortfFirst">[RMap-PortfFirst]</a>
+ &emsp; <a id="RMap-PortfFirst">[RMap-PortfFirst]</a>
 
-**Period**: *{begins immediately after [RMap-TInitPrice] and continues until inclusion into the portfolio}*.
-**Involved resources**: Entire intellectual resource [[IntelRes]](#IntelRes).
+**Period**: *{begins immediately after [RMap-TInitPrice] and continues until inclusion into the portfolio}*.  
+**Involved resources**: Entire intellectual resource [[IntelRes]](#IntelRes).  
 **Description**: During this period, the practical implementation of MM [[MM]](#MM) activities takes place, including the responsiveness of TM [[TM]](#TM) in tasks such as voting feature implementation within LaC’s technical resources [[TechRes]](#TechRes), refinement of the Purple Book by LaC Token holders, and interaction between LaC and iol-businesses and their providers. To accomplish this, the intellectual resource does the following:
 
 (i) MM, especially information partners and BoF [[BoF]](#BoF) members, inform the global community about LaC as the International Accelerator of Systems for Outcall Services. iol-providers who want their *iol-app*-based businesses to receive development funding do the same through their own information channels. The goal is to draw entrepreneurs’ attention to the capabilities of IASOS Labor as Capital DAO’s technical and DeFi resources, particularly the [[Instr-BizAppy]](#Instr-BizAppy) instruction.
@@ -401,7 +407,7 @@ The entire process—from the iol-business application to the transactions throu
 
 This decentralized management experience will continue to be used by the intellectual resources of MM, TM, FM and via the participation of all willing LaC Token holders in voting, throughout LaC’s operation, ensuring progress toward the core and ongoing goal of Labor as Capital DAO as stated in its White Paper: ***the steady growth of the token’s value***.
 
-&nbsp;
+&nbsp;  
 
 ## Security and Responsibility
 
@@ -419,7 +425,7 @@ Security also involves certain Reserve Wallets participating in the LaC Token di
 
 After successful completion of all creation and launch processes [[RMap]](#RMap) for IASOS Labor as Capital DAO, the iol account with the username **alikx** will be blocked. This special account was created solely for the purpose of organizing LaC and serving the initial LaC participants until full decentralization was achieved, with multiple moderators of different user support levels having access to it. To prevent further personal contact with LaC Token holders through this account and for security purposes, the account will be blocked using NiXeL’s terms of use. Future reactivation of the **alikx** account, if necessary, will be possible via voting within LaC.
 
-&nbsp;
+&nbsp;  
 
 ## Instructions and Regulations
 
@@ -429,11 +435,11 @@ This section contains rules, restrictions, instructions, and is continuously imp
 
 Violations of restrictions and attempts at sabotage may be perceived by moderators of information channels [[OfInfoCh]](#OfInfoCh), administrators of technical resources [[TechRes]](#TechRes), and other LaC Token holders as actions opposing the goals of LaC, a breach of the terms of resource usage, and a threat to LaC's security. This may result in inconveniences for the violator when using certain features of LaC.
 
-&nbsp;
+&nbsp;  
 
 ### Basic Rules
 
-   <a id="Instr-Base">[Instr-Base]</a>
+ &emsp; <a id="Instr-Base">[Instr-Base]</a>
 
 (i) The mission of LaC does not allow discrimination of any kind, including gender, racial, national, ethnic, religious, political, linguistic, anatomical, etc: ***LaC DAO token is an elite crypto asset***. For the purpose of organizing LaC’s governance, people are only distinguished as combinations of "LaC Token Holder", "Board of Frontmen Member [[BoF]](#BoF)", "Rule Violator of LaC", "Not Loyal to LaC Activity", and their affiliation with types of intellectual resources [[IntelRes]](#IntelRes).
 
@@ -451,11 +457,11 @@ Violations of restrictions and attempts at sabotage may be perceived by moderato
 
 (viii) Violations of rules and instructions may lead to loss of privileges and access to technical resources, and in some cases be considered a security threat.
 
-&nbsp;
+&nbsp;  
 
 ### How to Use the NiXeL App
 
-   <a id="Instr-NiXeL">[Instr-NiXeL]</a>
+ &emsp; <a id="Instr-NiXeL">[Instr-NiXeL]</a>
 
 For rules and instructions that require the use of NiXeL [[nxl]](#nxl), you will need a smartphone or tablet running Android version 8 or higher.
 
@@ -467,16 +473,17 @@ For rules and instructions that require the use of NiXeL [[nxl]](#nxl), you will
 
 (iv) Log in with your username.
 
-&nbsp;
+&nbsp;  
 
 ### Reserving LaC Token via Currency Resource
 
-   <a id="Instr-PreTokenCurr">[Instr-PreTokenCurr]</a>
+ &emsp; <a id="Instr-PreTokenCurr">[Instr-PreTokenCurr]</a>
 
 This instruction can be used only during the LaC-iol synchronization period [[LaC-iol-sync]](#LaC-iol-sync) !
 
-(i) In the NiXeL [[nxl]](#nxl) app, send a message to the user with the username AlikX containing the following text: "Pre LaC Token for \<amount> \<currency>. \<preferred communication language>".
+(i) In the NiXeL [[nxl]](#nxl) app, send a message to the user with the username AlikX containing the following text: "Pre LaC Token for \<amount> \<currency>. \<preferred communication language>".  
 Example message: **Pre LaC Token for 0.1 BTC. Portuguese**.
+
 Step-by-step instruction:
 
 - In the NiXeL app menu, select ***Find user by username***;
@@ -501,17 +508,17 @@ Step-by-step instruction:
 
 Acquiring SINHRO for reserving LaC Token through a chat with Alik Xandro allows the use of special conditions [[CurrRes-spec]](#CurrRes-spec).
 
-&nbsp;
+&nbsp;  
 
 ### Joining Media Management
 
-   <a id="Instr-MM">[Instr-MM]</a>
+ &emsp; <a id="Instr-MM">[Instr-MM]</a>
 
 This instruction applies during the LaC-iol synchronization period [[LaC-iol-sync]](#LaC-iol-sync) and essentially represents the initial mining of LaC Tokens through informational labor. After this period, the instruction will be modified by those who were involved in this phase within MM [[MM]](#MM) and who are signers of the Resource Wallet [[ResWallet]](#ResWallet) of MM. The LaC-iol synchronization is the easiest way to obtain more LaC Tokens by following these instructions, as you are the ones defining the initial price of the LaC Token [[RMap-TInitPrice]](#RMap-TInitPrice) after its release.
 
-&nbsp;
+&nbsp;  
 
-   **For informational partners** [[infop]](#infop):
+ &emsp; **For informational partners** [[infop]](#infop):
 
 Informational partners must be able to read and write in English fluently. GPT or translation tools may be used for this.
 
@@ -523,6 +530,7 @@ Information resources must have an audience of at least 50,000 people (bots do n
 **LaC MM Enter [https://linkedin.com/pulse/founders-global-megacorporation-iasos-lac-dao-jpexc](https://linkedin.com/pulse/founders-global-megacorporation-iasos-lac-dao-jpexc). DDN.** 
 
 The referral code will be used later to track your performance.
+
 Step-by-step instruction:
 
 - In the NiXeL app menu, select ***Find user by username***;
@@ -551,8 +559,9 @@ Step-by-step instruction:
 
 (viii) You may propose news updates linking to your new materials in official information channels of LaC.
 
-&nbsp;
-   **For regular users reacting to informational materials** [[r2im]](#r2im):
+&nbsp;  
+
+ &emsp; **For regular users reacting to informational materials** [[r2im]](#r2im):
 
 (ix) Complete points (iv) and (vi) of the Basic Rules [[Instr-Base]](#Instr-Base).
 
@@ -565,6 +574,7 @@ Step-by-step instruction:
 [https://linkedin.com/posts/iasos-lac_as-of-may-1-2025-the-official-delegation-activity-7323972460171735040-YInZ](https://linkedin.com/posts/iasos-lac_as-of-may-1-2025-the-official-delegation-activity-7323972460171735040-YInZ)** .
 
 ***This can only be done once, and only during [[RMap-TIssue]](#RMap-TIssue)!***
+
 Step-by-step instruction:
 
 - In the NiXeL app menu, select ***Find user by username***;
@@ -585,13 +595,13 @@ Step-by-step instruction:
 
 (xiv) After the invoice is paid, you can participate in [[RMap-TinitPrice]](#RMap-TinitPrice).
 
-&nbsp;
+&nbsp;  
 
 ### Payment Rates for Media Management Activities
 
-   <a id="Instr-MMPrice">[Instr-MMPrice]</a>
+ &emsp; <a id="Instr-MMPrice">[Instr-MMPrice]</a>
 
-   **During the LaC-iol synchronization period** [[LaC-iol-sync]](#LaC-iol-sync):
+ &emsp; **During the LaC-iol synchronization period** [[LaC-iol-sync]](#LaC-iol-sync):
 
 (i) You may propose different reward rates by participating in the discussion to update the Purple Book. However, remember: the more Tokens distributed early, the lower their initial value will be.
 
@@ -633,10 +643,9 @@ Step-by-step instruction:
 
 ### LaC Token for Media Partners during LaC-iol Synchronization
 
-   <a id="Instr-MMGetSin">[Instr-MMGetSin]</a>
+ &emsp; <a id="Instr-MMGetSin">[Instr-MMGetSin]</a>
 
-(i) When your new material reaches the desired number of views and reactions for which you want to receive payment, send a rich text message in the NiXel app [[nxl]](#nxl) to the user with the username AlikX with the following content: “ulim \<the ULIM>”. Example message:
-**ulim https://lac.e-gove.net/ulim=XXX** .
+(i) When your new material reaches the desired number of views and reactions for which you want to receive payment, send a rich text message in the NiXel app [[nxl]](#nxl) to the user with the username AlikX with the following content: “ulim \<the ULIM>”. Example message: **ulim https://lac.e-gove.net/ulim=XXX** .
 
 (ii) After your material is reviewed and the results are calculated, you will receive an offer to issue a smart invoice (video instruction on how to issue an invoice: [https://youtu.be/L9nLvCSPx4U](https://youtu.be/L9nLvCSPx4U)).
 The payment amount is calculated according to (v) of [[Instr-MMPrice]](#Instr-MMPrice).
@@ -645,14 +654,15 @@ The payment amount is calculated according to (v) of [[Instr-MMPrice]](#Instr-MM
 
 (iv) After the Token is issued and [[RMap-TDex]](#RMap-TDex) is completed, you can participate in [[RMap-TInitPrice]](#RMap-TInitPrice), where you will receive LaC Tokens based on your submitted materials and preferences.
 
-&nbsp;
+&nbsp;  
 
 ### For Board of Frontmen Members
 
-   <a id="Instr-BoF">[Instr-BoF]</a>
+ &emsp; <a id="Instr-BoF">[Instr-BoF]</a>
 
-&nbsp;
-   **Privileges of Board of Frontmen [[BoF]](#BoF) members:**
+&nbsp;  
+
+ &emsp; **Privileges of Board of Frontmen [[BoF]](#BoF) members:**
 
 (i) Access to private TM [[TM]](#TM) community resources.
 
@@ -668,9 +678,9 @@ The payment amount is calculated according to (v) of [[Instr-MMPrice]](#Instr-MM
 
 (vii) Ability to include your own information resource dedicated solely to LaC in the official information channels [[OfInfoCh]](#OfInfoCh).
 
-&nbsp;
+&nbsp;  
 
-   **Conditions and rules for recognition as a BoF member:**
+ &emsp; **Conditions and rules for recognition as a BoF member:**
 
 (viii) Be an information partner in MM [[MM]](#MM) or a moderator of an official information channel [[OfInfoCh]](#OfInfoCh).
 
@@ -690,26 +700,28 @@ The payment amount is calculated according to (v) of [[Instr-MMPrice]](#Instr-MM
 
 - Complete instructions related to ResWallet signature rights, which will be sent to you privately.
 
-&nbsp;
+&nbsp;  
 
 ### LaC Token Allocation to Reserve Wallets
 
-   <a id="Instr-TokenAssign">[Instr-TokenAssign]</a>
+ &emsp; <a id="Instr-TokenAssign">[Instr-TokenAssign]</a>
 
 Pie Allocation Scheme of the LaC Token to Reserve Wallets [[ResWallet]](#ResWallet):
 
 ![Token Allocation](https://github.com/Labor-as-Capital-DAO/public-docs/blob/main/imgs/chart_ResWallets.png?raw=true)
 
-&nbsp;
-   **Blockchain Network and LaC Token Naming Selection:**
+&nbsp;  
+
+ &emsp; **Blockchain Network and LaC Token Naming Selection:**
 
 (i) After the completion of Media Management Initialization [[RMap-MMInit]](#RMap-MMInit), an official channel [[OfInfoCh]](#OfInfoCh) of LaC announces a discussion thread for arguments in favor of a particular blockchain network for the LaC Token.  
 (ii) After some time (max 30 days), a vote is announced. All users who have obtained SINHRO by that moment can participate by sending a message in NiXeL to user **AlikX** indicating the preferred blockchain network and desired LaC Token name. The top 3 networks by the total SINHRO of voters are announced via official channels [[OfInfoCh]](#OfInfoCh) of LaC.
 
 (iii) The TM [[TM]](#TM) selects from these three the one most technically suitable for implementing the Purple Book of LaC. TM then appoints one experienced blockchain representative to carry out the subsequent steps leading up to allocation of tokens into LaC Reserve Wallets under the supervision of TM and iol authors.
 
-&nbsp;
-   **LaC Token Launch:**
+&nbsp;  
+
+ &emsp; **LaC Token Launch:**
 
 As LaC develops and DAO requirements become clearer, DDN [[DDN]](#DDN) and iol authors [[iol]](#iol) are creating an advanced blockchain with record-breaking transaction speeds using quantum cryptography — a **Permissionless Distributed Database Management System**. Later, LaC will be integrated with its native coin within that network.
 
@@ -721,8 +733,9 @@ As LaC develops and DAO requirements become clearer, DDN [[DDN]](#DDN) and iol a
 
 (vii) **Only 50%** (i.e. **4,294,967,296 tokens**) of the LaC Token supply will be available on the crypto market. The remaining 50% is allocated to Reserve Wallet "#0 Insurance" [[Instr-RWInsur]](#Instr-RWInsur).
 
-&nbsp;
-   **Selection of Reserve Wallet signatory accounts:**
+&nbsp;  
+
+ &emsp; **Selection of Reserve Wallet signatory accounts:**
 
 This section is related to the security of LaC Tokens in Reserve Wallets [[ResWallet]](#ResWallet), their intended use, and therefore it is necessary to select accounts of responsible signatories for transactions of these wallets before the creation of these wallets, and then develop a mechanism for replacing a signatory/wallet in case of inactivity of one of the signatories of a particular wallet.
 
@@ -730,24 +743,25 @@ This section is related to the security of LaC Tokens in Reserve Wallets [[ResWa
 
 (vix) A short instruction is provided for applicants, the execution of which allows determining the level of security/responsibility in managing their blockchain account and their attitude toward a particular type of intellectual resource.
 
-&nbsp;
-   **Creation of Reserve Wallets:**
+&nbsp;  
+
+&emsp; **Creation of Reserve Wallets:**
 
 (x) LaC Tokens, after generation, are allocated to the Reserve Wallets [[ResWallet]](#ResWallet) with corresponding purposes and regulations:
 
-   &nbsp;**#0. Insurance**. 50%. 4,294,967,296 tokens. Regulation in [[Instr-RWInsur]](#Instr-RWInsur).
- 
-   &nbsp;**#1. Media management**. 2%. 171,798,692 tokens. Regulation in [[Instr-RWMM]](#Instr-RWMM).
- 
-   &nbsp;**#2. Technical management**. 2%. 171,798,692 tokens. Regulation in [[Instr-RWTM]](#Instr-RWTM).
- 
-   &nbsp;**#3. Security & Charity**. 2%. 171,798,692 tokens. Regulation in [[Instr-RWSec]](#Instr-RWSec).
- 
-   &nbsp;**#4. Financial management**. 2%. 171,798,692 tokens. Regulation in [[Instr-RWFM]](#Instr-RWFM).
- 
-   &nbsp;**#5. Government / Power**. 2%. 171,798,692 tokens. Regulation in [[Instr-RWGov]](#Instr-RWGov).
- 
-   &nbsp;**#6. Accelerator Labor as Capital DAO**. 40%. 3,435,973,836 tokens. Regulation in [[Instr-RWInvest]](#Instr-RWInvest).
+ &emsp;&emsp; **#0. Insurance**. 50%. 4,294,967,296 tokens. Regulation in [[Instr-RWInsur]](#Instr-RWInsur).
+
+ &emsp;&emsp; **#1. Media management**. 2%. 171,798,692 tokens. Regulation in [[Instr-RWMM]](#Instr-RWMM).
+
+ &emsp;&emsp; **#2. Technical management**. 2%. 171,798,692 tokens. Regulation in [[Instr-RWTM]](#Instr-RWTM).
+
+ &emsp;&emsp; **#3. Security & Charity**. 2%. 171,798,692 tokens. Regulation in [[Instr-RWSec]](#Instr-RWSec).
+
+ &emsp;&emsp; **#4. Financial management**. 2%. 171,798,692 tokens. Regulation in [[Instr-RWFM]](#Instr-RWFM).
+
+ &emsp;&emsp; **#5. Government / Power**. 2%. 171,798,692 tokens. Regulation in [[Instr-RWGov]](#Instr-RWGov).
+
+ &emsp;&emsp; **#6. Accelerator Labor as Capital DAO**. 40%. 3,435,973,836 tokens. Regulation in [[Instr-RWInvest]](#Instr-RWInvest).
 
 (xi) All Reserve Wallets have their own purpose, 5 signatories with 3 required signatures for transactions, and their own special private group chat in iol, accessible via NiXeL [[nxl]](#nxl) — Wallet Chats.
 
@@ -773,11 +787,11 @@ This section is related to the security of LaC Tokens in Reserve Wallets [[ResWa
 
 (xxi) In case of insufficient number of signatories at the time of Reserve Wallet creation, new accounts are created for the missing signatories, which are temporarily transferred to TM overseeing the creation and distribution of Reserve Wallets. Subsequently, upon the appearance of candidates for signatories from the relevant categories of LaC Token holders, a reset of the Reserve Wallet is carried out according to [[Instr-RWReset]](#Instr-RWReset).
 
-&nbsp;
+&nbsp;  
 
 ### Reserve Wallet "#0 Insurance" Rules
 
-   <a id="Instr-RWInsur">[Instr-RWInsur]</a>
+ &emsp; <a id="Instr-RWInsur">[Instr-RWInsur]</a>
 
 (i) Reserve Wallet #0 Insurance or **Wallet \#0** is intended for:
 
@@ -795,11 +809,11 @@ This section is related to the security of LaC Tokens in Reserve Wallets [[ResWa
 
 (v) The token volume in Wallet \#0 is equal to the combined volume of all other wallets (**Market Wallets**), which ensures insurance of all tokens available on the global crypto asset market. However, the total volume of emergency compensations in each Market Wallet cannot exceed its initial volume. Such losses are unlikely but may occur at the blockchain network level or due to factors such as hacking, access control failures, or loss of contact with signatories. Each such case undergoes a thorough investigation with the involvement of all intellectual resources to identify the causes, assess the possibility of token recovery or blocking, and eliminate the root cause to prevent recurrence.
 
-&nbsp;
+&nbsp;  
 
 ### Reserve Wallet "#1 Media Management" Rules
 
-   <a id="Instr-RWMM">[Instr-RWMM]</a>
+ &emsp; <a id="Instr-RWMM">[Instr-RWMM]</a>
 
 (i) Reserve Wallet \#1 Media Management or **Wallet \#1** is intended for necessary expenses of MM [[MM]](#MM), such as:
 
@@ -813,11 +827,11 @@ This section is related to the security of LaC Tokens in Reserve Wallets [[ResWa
 
 (iii) Minimum number of signatures required to operate the wallet account: ***3***.
 
-&nbsp;
+&nbsp;  
 
 ### Reserve Wallet "#2 Tech Management" Rules
 
-   <a id="Instr-RWTM">[Instr-RWTM]</a>
+ &emsp; <a id="Instr-RWTM">[Instr-RWTM]</a>
 
 (i) Reserve Wallet \#2 Technical Management or **Wallet \#2** is intended for necessary expenses of TM [[TM]](#TM), such as:
 
@@ -835,11 +849,11 @@ This section is related to the security of LaC Tokens in Reserve Wallets [[ResWa
 
 (iii) Minimum number of signatures required to operate the wallet account: ***3***.
 
-&nbsp;
+&nbsp;  
 
 ### Reserve Wallet "#3 Security & Charity" Rules
 
-   <a id="Instr-RWSec">[Instr-RWSec]</a>
+ &emsp; <a id="Instr-RWSec">[Instr-RWSec]</a>
 
 (i) Reserve Wallet \#3 Security & Charity or **Wallet \#3** is intended for necessary expenses related to the security of LaC resources and operations:
 
@@ -863,11 +877,11 @@ This section is related to the security of LaC Tokens in Reserve Wallets [[ResWa
 
 (iv) Wallet \#3 may contain accounts of other currency resources [[CurrRes]](#CurrRes) for use in accordance with its designated purposes.
 
-&nbsp;
+&nbsp;  
 
 ### Reserve Wallet "#4 Financial Management" Rules
 
-   <a id="Instr-RWFM">[Instr-RWFM]</a>
+ &emsp; <a id="Instr-RWFM">[Instr-RWFM]</a>
 
 (i) Reserve Wallet \#4 Financial Management or **Wallet \#4** is intended for necessary FM [[FM]](#FM) expenses, such as:
 
@@ -885,11 +899,11 @@ This section is related to the security of LaC Tokens in Reserve Wallets [[ResWa
 
 (iv) Wallet \#4 may contain accounts of other currency resources [[CurrRes]](#CurrRes) for use in LaC needs.
 
-&nbsp;
+&nbsp;  
 
 ### Reserve Wallet "#5 Governance / Power" Rules
 
-   <a id="Instr-RWGov">[Instr-RWGov]</a>
+ &emsp; <a id="Instr-RWGov">[Instr-RWGov]</a>
 
 (i) Reserve Wallet \#5 Government / Power or **Wallet \#5** is intended for necessary LaC expenses, such as:
 
@@ -909,11 +923,11 @@ This section is related to the security of LaC Tokens in Reserve Wallets [[ResWa
 
 (iii) Minimum number of signatures required to operate the wallet account: ***3***.
 
-&nbsp;
+&nbsp;  
 
 ### Reserve Wallet "#6 Accelerator of Labor as Capital DAO" Rules
 
-   <a id="Instr-RWInvest">[Instr-RWInvest]</a>
+ &emsp; <a id="Instr-RWInvest">[Instr-RWInvest]</a>
 
 (i) Reserve Wallet \#6 Accelerator Labor as Capital DAO or **Wallet \#6** is intended solely for funding iol-businesses in accordance with [[Instr-BizInvest]](#Instr-BizInvest).
 
@@ -923,19 +937,19 @@ This section is related to the security of LaC Tokens in Reserve Wallets [[ResWa
 
 (iv) Wallet \#6 is created and funded only upon receipt of the first application for iol-business development investment. One signatory is selected from each of reserve wallets \##1–5 in their respective chat groups. The selection process is carried out by the admins of the reserve chats and results are forwarded to TM [[TM]](#TM).
 
-&nbsp;
+&nbsp;  
 
 ### Reserve Wallet Reset
 
-   <a id="Instr-RWReset">[Instr-RWReset]</a>
+ &emsp; <a id="Instr-RWReset">[Instr-RWReset]</a>
 
 *{will be added by TM [[TM]](#TM) depending on the capabilities of the selected blockchain network}*
 
-&nbsp;
+&nbsp;  
 
 ### Determining the Initial Price of LaC Token
 
-   <a id="Instr-TInitPrice">[Instr-TInitPrice]</a>
+ &emsp; <a id="Instr-TInitPrice">[Instr-TInitPrice]</a>
 
 (i) All those wishing to exchange their SINHRO received during the LaC-iol synchronization period [[LaC-iol-sync]](#LaC-iol-sync) for LaC Tokens must submit sell offers for SINHRO in the desired quantity and price relative to the LaC Token in the NiXeL [[nxl]](#nxl) application.
 
@@ -947,11 +961,11 @@ This section is related to the security of LaC Tokens in Reserve Wallets [[ResWa
 
 (v) Based on the initial price of the LaC Token, the number of LaC Tokens for those iol users who participated in the LaC-iol synchronization [[LaC-iol-sync]](#LaC-iol-sync) with their currency resources [[CurrRes]](#CurrRes) is calculated. This amount is transferred to the crypto Pool account *{to be added after the creation of reserve wallets}* of iol [[pool]](#pool) from Reserve Wallet "#4 Financial Management" and credited to the pool balances of these users with an annual yield rate of 25% for the period from the transfer of the currency resource until the determination of the initial price of the LaC Token.
 
-&nbsp;
+&nbsp;  
 
 ### Application of iol-Business / Startup to the LaC DAO Accelerator
 
-   <a id="Instr-BizAppy">[Instr-BizAppy]</a>
+ &emsp; <a id="Instr-BizAppy">[Instr-BizAppy]</a>
 
 (i) The iol-app on which the iol-business is built must have the label “Approved in Business Accelerator Labor as Capital DAO” in the “P/PS” balance section of NiXeL [[nxl]](#nxl). This label is set by the iol-provider in the app settings in iol-builder. The main section or main menu of the iol-app must contain the text "***Financing of iol-businesses from IASOS Labor as Capital DAO***", linking to [https://github.com/Labor-as-Capital-DAO/public-docs/blob/main/WhitePaper.md](https://github.com/Labor-as-Capital-DAO/public-docs/blob/main/WhitePaper.md).
 
@@ -997,11 +1011,11 @@ This section is related to the security of LaC Tokens in Reserve Wallets [[ResWa
 
 (ix) In the event of a negative voting outcome, the applicant may delete their Directory with the application.
 
-&nbsp;
+&nbsp;  
 
 ### Voting by LaC Token
 
-   <a id="Instr-TVote">[Instr-TVote]</a>
+ &emsp; <a id="Instr-TVote">[Instr-TVote]</a>
 
 (i) Before creating any vote, the voting topic must be created as a new issue at [https://github.com/Labor-as-Capital-DAO/public-docs/issues](https://github.com/Labor-as-Capital-DAO/public-docs/issues).
 
@@ -1024,11 +1038,11 @@ This section is related to the security of LaC Tokens in Reserve Wallets [[ResWa
 
 (v) The voting result must be entered in the Key Events Log [[Log]](#Log) of this Purple Book with the voting ID specified.
 
-&nbsp;
+&nbsp;  
 
 ### Investment in Development of iol-Business / Startup
 
-   <a id="Instr-BizInvest">[Instr-BizInvest]</a>
+ &emsp; <a id="Instr-BizInvest">[Instr-BizInvest]</a>
 
 (i) Upon approvals in the discussions of a new application in Accelerator LaC, one of the signatories of Reserve wallet "#6 Accelerator Labor as Capital DAO" opens a vote using the LaC Token [[Instr-TVote]](#Instr-TVote) to allocate funds to the iol-business with a voting duration of 15 to 30 days.
 
@@ -1036,11 +1050,11 @@ This section is related to the security of LaC Tokens in Reserve Wallets [[ResWa
 
 (iii) If the voting outcome is positive for financing this iol-business, the amount specified in `application.md` is transferred from Reserve wallet "#6 Accelerator Labor as Capital DAO" to the account specified in `application.md`. An announcement is made about the new regional business in the IASOS Labor as Capital DAO portfolio.
 
-&nbsp;
+&nbsp;  
 
 ### Governing Principles for Security
 
-   <a id="Instr-g4s">[Instr-g4s]</a>
+ &emsp; <a id="Instr-g4s">[Instr-g4s]</a>
 
 (i) Follow generally accepted rules for securing your crypto accounts, private keys, seed phrases, and restricting access to applications with your crypto wallets.
 
@@ -1056,11 +1070,11 @@ This section is related to the security of LaC Tokens in Reserve Wallets [[ResWa
 
 (vii) Do not panic in cases of sharp rises or drops in the LaC Token price by more than 7% per day. That is, adhere to the **HODL** principle and do not support such price manipulations with your trades at those prices. Always remember that the LaC Token is not a speculative instrument but a predictable decentralized financial instrument, whose price is directly proportional to the number of users of iol-businesses in the Labor as Capital DAO portfolio and does not depend on the profits of these iol-businesses. **Therefore, it is recommended to acquire the LaC Token as early as possible**.
 
-&nbsp;
+&nbsp;  
 
 ### Key Events Log
 
-   <a id="Log">[Log]</a>
+ &emsp; <a id="Log">[Log]</a>
 
 This section of the Purple Book records changes to the Purple Book, for example, clarifications of previously undefined information in curly braces, changes to instructions with their rationale, voting results, etc. Each entry is on a new line in UTC time, 24-hour format as follows: **Year-\<month number>-\<day number> hours:minutes** \<brief description of the event>.
 
