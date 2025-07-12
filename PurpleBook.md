@@ -21,71 +21,71 @@ Technical Resources [[TechRes]](#TechRes)
 
 Intellectual Resources [[IntelRes]](#IntelRes)
 
-Currency Resources [[CurrRes]](#CurrRes)
+Currency Resources [[CurrRes]](#CurrRes)  
 
  &emsp; Special Conditions [[CurrRes-spec]](#CurrRes-spec)
 
-Official Information Channels [[OfInfoCh]](#OfInfoCh)
+Official Information Channels [[OfInfoCh]](#OfInfoCh)  
 
  &emsp; Community Chats [[OfInfoCh-chats]](#OfInfoCh-chats)
 
-Roadmap [[RMap]](#RMap)
+Roadmap [[RMap]](#RMap)  
 
- &emsp; Initialization of Media Management [[RMap-MMInit]](#RMap-MMInit)
+ &emsp; Initialization of Media Management [[RMap-MMInit]](#RMap-MMInit)  
 
- &emsp; LaC Token Issuance and Distribution [[RMap-TIssue]](#RMap-TIssue)
+ &emsp; LaC Token Issuance and Distribution [[RMap-TIssue]](#RMap-TIssue)  
 
- &emsp; Listing LaC Token on DEX via NiXeL [[RMap-TDex]](#RMap-TDex)
+ &emsp; Listing LaC Token on DEX via NiXeL [[RMap-TDex]](#RMap-TDex)  
 
- &emsp; Initial Price Determination for LaC Token and distribution to LaC-iol Synchronization participants [[RMap-TInitPrice]](#RMap-TInitPrice)
+ &emsp; Initial Price Determination for LaC Token and distribution to LaC-iol Synchronization participants [[RMap-TInitPrice]](#RMap-TInitPrice)  
 
- &emsp; Onboarding the First iol-Business to LaC Portfolio [[RMap-PortfFirst]](#RMap-PortfFirst)
+ &emsp; Onboarding the First iol-Business to LaC Portfolio [[RMap-PortfFirst]](#RMap-PortfFirst)  
 
 Security and Responsibility [[Sec]](#Sec)
 
-Instructions and Regulations [[Instr]](#Instr)
+Instructions and Regulations [[Instr]](#Instr)  
 
- &emsp; Basic Rules [[Instr-Base]](#Instr-Base)
+ &emsp; Basic Rules [[Instr-Base]](#Instr-Base)  
 
- &emsp; How to Use the NiXeL App [[Instr-NiXeL]](#Instr-NiXeL)
+ &emsp; How to Use the NiXeL App [[Instr-NiXeL]](#Instr-NiXeL)  
 
- &emsp; Reserving LaC Token via Currency Resource [[Instr-PreTokenCurr]](#Instr-PreTokenCurr)
+ &emsp; Reserving LaC Token via Currency Resource [[Instr-PreTokenCurr]](#Instr-PreTokenCurr)  
 
- &emsp; Joining Media Management [[Instr-MM]](#Instr-MM)
+ &emsp; Joining Media Management [[Instr-MM]](#Instr-MM)  
 
- &emsp; Payment Rates for Media Management Activities [[Instr-MMPrice]](#Instr-MMPrice)
+ &emsp; Payment Rates for Media Management Activities [[Instr-MMPrice]](#Instr-MMPrice)  
 
- &emsp; LaC Token for Media Partners during LaC-iol Synchronization [[Instr-MMGetSin]](#Instr-MMGetSin)
+ &emsp; LaC Token for Media Partners during LaC-iol Synchronization [[Instr-MMGetSin]](#Instr-MMGetSin)  
 
- &emsp; For Board of Frontmen Members [[Instr-BoF]](#Instr-BoF)
+ &emsp; For Board of Frontmen Members [[Instr-BoF]](#Instr-BoF)  
 
- &emsp; LaC Token Allocation to Reserve Wallets [[Instr-TokenAssign]](#Instr-TokenAssign)
+ &emsp; LaC Token Allocation to Reserve Wallets [[Instr-TokenAssign]](#Instr-TokenAssign)  
 
- &emsp; Reserve Wallet "#0 Insurance" Rules [[Instr-RWInsur]](#Instr-RWInsur)
+ &emsp; Reserve Wallet "#0 Insurance" Rules [[Instr-RWInsur]](#Instr-RWInsur)  
 
- &emsp; Reserve Wallet "#1 Media Management" Rules [[Instr-RWMM]](#Instr-RWMM)
+ &emsp; Reserve Wallet "#1 Media Management" Rules [[Instr-RWMM]](#Instr-RWMM)  
 
- &emsp; Reserve Wallet "#2 Tech Management" Rules [[Instr-RWTM]](#Instr-RWTM)
+ &emsp; Reserve Wallet "#2 Tech Management" Rules [[Instr-RWTM]](#Instr-RWTM)  
 
- &emsp; Reserve Wallet "#3 Security & Charity" Rules [[Instr-RWSec]](#Instr-RWSec)
+ &emsp; Reserve Wallet "#3 Security & Charity" Rules [[Instr-RWSec]](#Instr-RWSec)  
 
- &emsp; Reserve Wallet "#4 Financial Management" Rules [[Instr-RWFM]](#Instr-RWFM)
+ &emsp; Reserve Wallet "#4 Financial Management" Rules [[Instr-RWFM]](#Instr-RWFM)  
 
- &emsp; Reserve Wallet "#5 Governance / Power" Rules [[Instr-RWGov]](#Instr-RWGov)
+ &emsp; Reserve Wallet "#5 Governance / Power" Rules [[Instr-RWGov]](#Instr-RWGov)  
 
- &emsp; Reserve Wallet "#6 Accelerator of Labor as Capital DAO" Rules [[Instr-RWInvest]](#Instr-RWInvest)
+ &emsp; Reserve Wallet "#6 Accelerator of Labor as Capital DAO" Rules [[Instr-RWInvest]](#Instr-RWInvest)  
 
- &emsp; Reserve Wallet Reset [[Instr-RWReset]](#Instr-RWReset)
+ &emsp; Reserve Wallet Reset [[Instr-RWReset]](#Instr-RWReset)  
 
- &emsp; Determining the Initial Price of LaC Token [[Instr-TInitPrice]](#Instr-TInitPrice)
+ &emsp; Determining the Initial Price of LaC Token [[Instr-TInitPrice]](#Instr-TInitPrice)  
 
- &emsp; Application of iol-Business / Startup to the LaC DAO Accelerator [[Instr-BizAppy]](#Instr-BizAppy)
+ &emsp; Application of iol-Business / Startup to the LaC DAO Accelerator [[Instr-BizAppy]](#Instr-BizAppy)  
 
- &emsp; Voting by LaC Token [[Instr-TVote]](#Instr-TVote)
+ &emsp; Voting by LaC Token [[Instr-TVote]](#Instr-TVote)  
 
- &emsp; Investment in Development of iol-Business / Startup [[Instr-BizInvest]](#Instr-BizInvest)
+ &emsp; Investment in Development of iol-Business / Startup [[Instr-BizInvest]](#Instr-BizInvest)  
 
- &emsp; Governing Principles for Security [[Instr-g4s]](#Instr-g4s)
+ &emsp; Governing Principles for Security [[Instr-g4s]](#Instr-g4s)  
 
 Key Events Log [[Log]](#Log)
 
@@ -599,7 +599,7 @@ Step-by-step instruction:
 
 ### Payment Rates for Media Management Activities
 
- &emsp; <a id="Instr-MMPrice">[Instr-MMPrice]</a>
+ &emsp; <a id="Instr-MMPrice">[Instr-MMPrice]</a>  
 
  &emsp; **During the LaC-iol synchronization period** [[LaC-iol-sync]](#LaC-iol-sync):
 
@@ -639,7 +639,7 @@ Step-by-step instruction:
    **After the initial LaC Token price [[RMap-TInitPrice]](#RMap-TInitPrice) is determined:**
   *{it is set by the signature holders of the Resource Wallet [[ResWallet]](#ResWallet) for MM [[MM]](#MM) after [[Instr-TokenAssign]](#Instr-TokenAssign)}*.
 
-&nbsp;
+&nbsp;  
 
 ### LaC Token for Media Partners during LaC-iol Synchronization
 
@@ -658,7 +658,7 @@ The payment amount is calculated according to (v) of [[Instr-MMPrice]](#Instr-MM
 
 ### For Board of Frontmen Members
 
- &emsp; <a id="Instr-BoF">[Instr-BoF]</a>
+ &emsp; <a id="Instr-BoF">[Instr-BoF]</a>  
 
 &nbsp;  
 
@@ -704,7 +704,7 @@ The payment amount is calculated according to (v) of [[Instr-MMPrice]](#Instr-MM
 
 ### LaC Token Allocation to Reserve Wallets
 
- &emsp; <a id="Instr-TokenAssign">[Instr-TokenAssign]</a>
+ &emsp; <a id="Instr-TokenAssign">[Instr-TokenAssign]</a>  
 
 Pie Allocation Scheme of the LaC Token to Reserve Wallets [[ResWallet]](#ResWallet):
 
@@ -749,17 +749,17 @@ This section is related to the security of LaC Tokens in Reserve Wallets [[ResWa
 
 (x) LaC Tokens, after generation, are allocated to the Reserve Wallets [[ResWallet]](#ResWallet) with corresponding purposes and regulations:
 
- &emsp;&emsp; **#0. Insurance**. 50%. 4,294,967,296 tokens. Regulation in [[Instr-RWInsur]](#Instr-RWInsur).
+ &emsp;&emsp; **#0. Insurance**. 50%. 4,294,967,296 tokens. Regulation in [[Instr-RWInsur]](#Instr-RWInsur).  
 
- &emsp;&emsp; **#1. Media management**. 2%. 171,798,692 tokens. Regulation in [[Instr-RWMM]](#Instr-RWMM).
+ &emsp;&emsp; **#1. Media management**. 2%. 171,798,692 tokens. Regulation in [[Instr-RWMM]](#Instr-RWMM).  
 
- &emsp;&emsp; **#2. Technical management**. 2%. 171,798,692 tokens. Regulation in [[Instr-RWTM]](#Instr-RWTM).
+ &emsp;&emsp; **#2. Technical management**. 2%. 171,798,692 tokens. Regulation in [[Instr-RWTM]](#Instr-RWTM).  
 
- &emsp;&emsp; **#3. Security & Charity**. 2%. 171,798,692 tokens. Regulation in [[Instr-RWSec]](#Instr-RWSec).
+ &emsp;&emsp; **#3. Security & Charity**. 2%. 171,798,692 tokens. Regulation in [[Instr-RWSec]](#Instr-RWSec).  
 
- &emsp;&emsp; **#4. Financial management**. 2%. 171,798,692 tokens. Regulation in [[Instr-RWFM]](#Instr-RWFM).
+ &emsp;&emsp; **#4. Financial management**. 2%. 171,798,692 tokens. Regulation in [[Instr-RWFM]](#Instr-RWFM).  
 
- &emsp;&emsp; **#5. Government / Power**. 2%. 171,798,692 tokens. Regulation in [[Instr-RWGov]](#Instr-RWGov).
+ &emsp;&emsp; **#5. Government / Power**. 2%. 171,798,692 tokens. Regulation in [[Instr-RWGov]](#Instr-RWGov).  
 
  &emsp;&emsp; **#6. Accelerator Labor as Capital DAO**. 40%. 3,435,973,836 tokens. Regulation in [[Instr-RWInvest]](#Instr-RWInvest).
 
@@ -813,7 +813,7 @@ This section is related to the security of LaC Tokens in Reserve Wallets [[ResWa
 
 ### Reserve Wallet "#1 Media Management" Rules
 
- &emsp; <a id="Instr-RWMM">[Instr-RWMM]</a>
+ &emsp; <a id="Instr-RWMM">[Instr-RWMM]</a>  
 
 (i) Reserve Wallet \#1 Media Management or **Wallet \#1** is intended for necessary expenses of MM [[MM]](#MM), such as:
 
@@ -831,7 +831,7 @@ This section is related to the security of LaC Tokens in Reserve Wallets [[ResWa
 
 ### Reserve Wallet "#2 Tech Management" Rules
 
- &emsp; <a id="Instr-RWTM">[Instr-RWTM]</a>
+ &emsp; <a id="Instr-RWTM">[Instr-RWTM]</a>  
 
 (i) Reserve Wallet \#2 Technical Management or **Wallet \#2** is intended for necessary expenses of TM [[TM]](#TM), such as:
 
@@ -853,7 +853,7 @@ This section is related to the security of LaC Tokens in Reserve Wallets [[ResWa
 
 ### Reserve Wallet "#3 Security & Charity" Rules
 
- &emsp; <a id="Instr-RWSec">[Instr-RWSec]</a>
+ &emsp; <a id="Instr-RWSec">[Instr-RWSec]</a>  
 
 (i) Reserve Wallet \#3 Security & Charity or **Wallet \#3** is intended for necessary expenses related to the security of LaC resources and operations:
 
@@ -881,7 +881,7 @@ This section is related to the security of LaC Tokens in Reserve Wallets [[ResWa
 
 ### Reserve Wallet "#4 Financial Management" Rules
 
- &emsp; <a id="Instr-RWFM">[Instr-RWFM]</a>
+ &emsp; <a id="Instr-RWFM">[Instr-RWFM]</a>  
 
 (i) Reserve Wallet \#4 Financial Management or **Wallet \#4** is intended for necessary FM [[FM]](#FM) expenses, such as:
 
@@ -903,7 +903,7 @@ This section is related to the security of LaC Tokens in Reserve Wallets [[ResWa
 
 ### Reserve Wallet "#5 Governance / Power" Rules
 
- &emsp; <a id="Instr-RWGov">[Instr-RWGov]</a>
+ &emsp; <a id="Instr-RWGov">[Instr-RWGov]</a>  
 
 (i) Reserve Wallet \#5 Government / Power or **Wallet \#5** is intended for necessary LaC expenses, such as:
 
@@ -927,7 +927,7 @@ This section is related to the security of LaC Tokens in Reserve Wallets [[ResWa
 
 ### Reserve Wallet "#6 Accelerator of Labor as Capital DAO" Rules
 
- &emsp; <a id="Instr-RWInvest">[Instr-RWInvest]</a>
+ &emsp; <a id="Instr-RWInvest">[Instr-RWInvest]</a>  
 
 (i) Reserve Wallet \#6 Accelerator Labor as Capital DAO or **Wallet \#6** is intended solely for funding iol-businesses in accordance with [[Instr-BizInvest]](#Instr-BizInvest).
 
@@ -941,7 +941,7 @@ This section is related to the security of LaC Tokens in Reserve Wallets [[ResWa
 
 ### Reserve Wallet Reset
 
- &emsp; <a id="Instr-RWReset">[Instr-RWReset]</a>
+ &emsp; <a id="Instr-RWReset">[Instr-RWReset]</a>  
 
 *{will be added by TM [[TM]](#TM) depending on the capabilities of the selected blockchain network}*
 
@@ -949,7 +949,7 @@ This section is related to the security of LaC Tokens in Reserve Wallets [[ResWa
 
 ### Determining the Initial Price of LaC Token
 
- &emsp; <a id="Instr-TInitPrice">[Instr-TInitPrice]</a>
+ &emsp; <a id="Instr-TInitPrice">[Instr-TInitPrice]</a>  
 
 (i) All those wishing to exchange their SINHRO received during the LaC-iol synchronization period [[LaC-iol-sync]](#LaC-iol-sync) for LaC Tokens must submit sell offers for SINHRO in the desired quantity and price relative to the LaC Token in the NiXeL [[nxl]](#nxl) application.
 
@@ -965,7 +965,7 @@ This section is related to the security of LaC Tokens in Reserve Wallets [[ResWa
 
 ### Application of iol-Business / Startup to the LaC DAO Accelerator
 
- &emsp; <a id="Instr-BizAppy">[Instr-BizAppy]</a>
+ &emsp; <a id="Instr-BizAppy">[Instr-BizAppy]</a>  
 
 (i) The iol-app on which the iol-business is built must have the label “Approved in Business Accelerator Labor as Capital DAO” in the “P/PS” balance section of NiXeL [[nxl]](#nxl). This label is set by the iol-provider in the app settings in iol-builder. The main section or main menu of the iol-app must contain the text "***Financing of iol-businesses from IASOS Labor as Capital DAO***", linking to [https://github.com/Labor-as-Capital-DAO/public-docs/blob/main/WhitePaper.md](https://github.com/Labor-as-Capital-DAO/public-docs/blob/main/WhitePaper.md).
 
@@ -1015,7 +1015,7 @@ This section is related to the security of LaC Tokens in Reserve Wallets [[ResWa
 
 ### Voting by LaC Token
 
- &emsp; <a id="Instr-TVote">[Instr-TVote]</a>
+ &emsp; <a id="Instr-TVote">[Instr-TVote]</a>  
 
 (i) Before creating any vote, the voting topic must be created as a new issue at [https://github.com/Labor-as-Capital-DAO/public-docs/issues](https://github.com/Labor-as-Capital-DAO/public-docs/issues).
 
@@ -1042,7 +1042,7 @@ This section is related to the security of LaC Tokens in Reserve Wallets [[ResWa
 
 ### Investment in Development of iol-Business / Startup
 
- &emsp; <a id="Instr-BizInvest">[Instr-BizInvest]</a>
+ &emsp; <a id="Instr-BizInvest">[Instr-BizInvest]</a>  
 
 (i) Upon approvals in the discussions of a new application in Accelerator LaC, one of the signatories of Reserve wallet "#6 Accelerator Labor as Capital DAO" opens a vote using the LaC Token [[Instr-TVote]](#Instr-TVote) to allocate funds to the iol-business with a voting duration of 15 to 30 days.
 
@@ -1054,7 +1054,7 @@ This section is related to the security of LaC Tokens in Reserve Wallets [[ResWa
 
 ### Governing Principles for Security
 
- &emsp; <a id="Instr-g4s">[Instr-g4s]</a>
+ &emsp; <a id="Instr-g4s">[Instr-g4s]</a>  
 
 (i) Follow generally accepted rules for securing your crypto accounts, private keys, seed phrases, and restricting access to applications with your crypto wallets.
 
@@ -1074,7 +1074,7 @@ This section is related to the security of LaC Tokens in Reserve Wallets [[ResWa
 
 ### Key Events Log
 
- &emsp; <a id="Log">[Log]</a>
+ &emsp; <a id="Log">[Log]</a>  
 
 This section of the Purple Book records changes to the Purple Book, for example, clarifications of previously undefined information in curly braces, changes to instructions with their rationale, voting results, etc. Each entry is on a new line in UTC time, 24-hour format as follows: **Year-\<month number>-\<day number> hours:minutes** \<brief description of the event>.
 
