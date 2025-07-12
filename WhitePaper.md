@@ -1,14 +1,20 @@
 **Labor as Capital**: International Accelerator of Systems for Outcall Services, **Decentralized Autonomous Organization**
 
+&nbsp;
+
 # *Labor as Capital DAO*
 
-## ***IASOS LaC DAO***
+***IASOS LaC DAO***
+
+&nbsp;
 
 Alik Xandro
 
 [alikxandro@e-gove.net](mailto:alikxandro@e-gove.net?subject=LaC%20White%20Paper)
 
 [www.github.com/Labor-as-Capital-DAO](http://www.github.com/Labor-as-Capital-DAO)
+
+&nbsp;
 
 ### Abstract
 
@@ -21,6 +27,8 @@ These tokens can also be listed on stocks, exchanges, and trading platforms, mak
 The unique technical and engineering-intellectual resources of LaC DAO include the exclusive commercial representation of the **Internet of Labour** ecosystem/platform and a partnership with **Distributed Digital Nomads** — developers of iol-apps: applications built on the Internet of Labour platform.
 
 The more iol-businesses are included in the LaC DAO portfolio and the more users they have, the higher the value of the LaC DAO token. At the same time, the token's value does not depend on the profitability of the companies in the portfolio.
+
+&nbsp;
 
 ### 1. Introduction
 
@@ -48,6 +56,8 @@ This White Paper outlines the key aspects of LaC DAO, offering an initial unders
 ***The name of the LaC DAO blockchain token is not included in this White Paper! The token issuance process, name selection, and distribution are mentioned in the "Organization" section and described in detail in the Purple Book of LaC DAO*** [[4]](#4).
 
 Comprehensive information about LaC DAO's activities, regulations, and roadmap with instructions can be found in its Purple Book [[4]](#4).
+
+&nbsp;
 
 ### 2. Goals
 
@@ -121,6 +131,8 @@ A portion of Period A will be shown in **Chart 2** and examined in detail below 
 
 Thus, the ***progressive growth*** of the token price $P$ means that for any time $t_X$, there exists a $t_Y > t_X$ where $ P(t_Y) \geq P(t_X)$. This is the mathematical definition of **the main and ongoing goal of Labor as Capital DAO**.
 
+&nbsp;
+
 ### 3. Resources and Capabilities
 
 In this section, we will examine in detail the resources and capabilities for the long-term operation of LaC DAO and the high likelihood of achieving all its goals.
@@ -155,7 +167,7 @@ The global Internet of Labour ecosystem is part of Web3 and is designed to promo
 
 #### Own Token
 
-As part of organizing LaC DAO, at a certain point following several other foundational steps — such as selecting the blockchain network and naming the token — the native LaC DAO token is issued in accordance with the detailed procedures and instructions outlined in the Purple Book. The token is anonymous and carries no restrictions for its holders based on characteristics such as gender, nationality, citizenship, religion, etc.
+As part of organizing LaC DAO, at a certain point following several other foundational steps — such as selecting the blockchain network and naming the token — the native LaC DAO token is issued in accordance with the detailed procedures and instructions outlined in the Purple Book. The token is anonymous and carries no restrictions for its holders based on characteristics such as gender, nationality, citizenship, religion, etc: ***LaC DAO token is an elite crypto asset***.
 
 The token serves multiple purposes:
 
@@ -182,7 +194,7 @@ All privileges of Board of Frontmen members are detailed in the Purple Book of L
 
 #### Currency Resource
 
-Currency resources include fiat currencies of all countries and the top 20 crypto currencies by daily trading volume on popular crypto stock exchanges.  
+Currency resources include fiat currencies of all countries and the top 20 crypto currencies by daily trading volume on popular crypto exchanges.  
 Anyone using currency resources in relation to the LaC token is directly participating in financial governance, which represents the **DeFi** implementation of LaC DAO.  
 Likewise, through the LaC DAO token, iol-businesses receive this resource if it is required for the purposes stated in their application to the LaC DAO portfolio.
 
@@ -224,6 +236,8 @@ Meanwhile, iol-businesses can operate as for-profit ventures, with extremely low
 ***This exclusive representation of the Internet of Labour ecosystem/platform by Labor as Capital DAO makes the LaC DAO token truly unique in the global DeFi and blockchain space.***
 
 Flexibility, well-structured organization and governance of LaC DAO make its token demonstrates a consistently upward growth trend with high probability, independent of the individual profitability of iol-businesses.
+
+&nbsp;
 
 ### 4. Organization
 
@@ -331,6 +345,8 @@ By applying decentralized governance using the token and LaC DAO’s technical r
 
 It is important to note that, due to the aging population, the next 20–30 years will see a decrease in the supply of services and an increase in demand for services, which will also lead to a rise in both the value of labor and the demand for services in iol-apps.
 
+&nbsp;
+
 ### 5. Governance
 
 Aside from the legacy Electronic Governance Network (e-gove NET), there are several third-party services specifically designed for registering DAOs and performing DAO-related governance functions. However, LaC DAO minimizes its dependency on third-party services — including domain names — and relies on its own engineering and technical resources to operate in alignment with the needs of LaC DAO token holders. Its goals, conditions, and resources make LaC DAO as decentralized as possible. 
@@ -348,7 +364,7 @@ LaC DAO's governance consists of the following continuously active processes, in
 
 - **Updating the Purple Book.** This involves making changes and additions to instructions, rules, procedures, links, secondary information channels, etc., in the Purple Book. It also includes integrating new tools into the governance process.
 
-- **Listing the LaC DAO token on crypto stock exchanges and DEXs.** Anyone or any group can do this, but token holders of LaC DAO are the most interested in doing so. News about such actions is published through official channels and by interested media partners.
+- **Listing the LaC DAO token on crypto exchanges and DEXs.** Anyone or any group can do this, but token holders of LaC DAO are the most interested in doing so. News about such actions is published through official channels and by interested media partners.
 
 - **Admission of new iol-businesses into the LaC DAO portfolio.** LaC DAO does not invest in or sponsor ideas, projects, etc. Instead, it provides resources to iol-businesses that are building or growing their business using fully functioning, publicly released iol-apps, in accordance with the procedures in the Purple Book. These resources are provided to attract users — which directly supports LaC’s primary goal and simultaneously fulfills its function as an Accelerator of Systems for Outcall Services. This does not limit LaC DAO token holders from helping iol-businesses in other ways or from owning their own iol-business.
 
@@ -378,7 +394,7 @@ By the end of *Period A-3*, a slowdown in the growth rate of users for ther firs
 **Period A-4** resembles *Period A-2* because another iol-business has now joined the LaC DAO portfolio, and some token sales were needed to fund its marketing/promotion expenses. As a result, a new user inflow starts for this second iol-business, at its own pace — this is **Period A-5**.
 It is important to understand that the chart reflects the token price, which is dependent on the total number of users across all iol-apps in the LaC DAO portfolio. However, user activity is not factored into the price formula.
 
-**Period A-6** shows a possible — but not mandatory — event. As mentioned in the **Goals** section, LaC DAO embraces market freedom, and listing the LaC DAO token on crypto stock exchanges is one of the aims of Labor as Capital. This means that in addition to the increase in user numbers at iol-businesses, the token price may also be affected by negative news and various *market manipulation attempts*.
+**Period A-6** shows a possible — but not mandatory — event. As mentioned in the **Goals** section, LaC DAO embraces market freedom, and listing the LaC DAO token on crypto  exchanges is one of the aims of Labor as Capital. This means that in addition to the increase in user numbers at iol-businesses, the token price may also be affected by negative news and various *market manipulation attempts*.
 
 There can be different causes and motives for such manipulation attempts. Let’s explore some possible reasons.
 
@@ -401,6 +417,8 @@ The likelihood of price manipulation (as seen in *Period A-6*) is higher when tr
 
 Therefore, similar segments to those in Period A will appear throughout the Chart 1 timeline, but with overall constant growth as more iol-businesses are added to the LaC DAO portfolio — with possible minor dips during onboarding phases.  
 The growth dynamics across different chart segments will vary due to free market forces, the innovative activity of token holders, and the intensity of user acquisition across all iol-businesses within the IASOS Labor as Capital DAO portfolio.
+
+&nbsp;
 
 ### 6. Conclusion
 
@@ -443,7 +461,7 @@ At the same time, this is a **governance token** of LaC DAO, allowing holders to
 
 - ***Influencing Internet of Labour features***, since LaC DAO voting can affect ecosystem decisions;
 
-- ***Profit generation through trading***, as the LaC DAO token is a blockchain-based asset and can be listed on any crypto stock exchange and DEXs;
+- ***Profit generation through trading***, as the LaC DAO token is a blockchain-based asset and can be listed on any crypto exchange and DEXs;
 
 - Supporting ***employment in private outcall services*** and ***curbing the growth of street crime***.
 
@@ -455,6 +473,8 @@ The more labor is performed by users of iol-apps, the fewer LaC DAO tokens there
 
 For detailed information on the organization and governance of IASOS Labor as Capital DAO, as well as the regulation of its token, refer to the Purple Book of the Labor as Capital DAO [[4]](#4).
 
+&nbsp;
+
 ### References
 
 <a id="1">[1]</a>  Wikipedia, "Decentralized Finance", https://wikipedia.org/wiki/Decentralized_finance , 2020.
@@ -463,7 +483,7 @@ For detailed information on the organization and governance of IASOS Labor as Ca
 
 <a id="3">[3]</a>  Wikipedia, "Web3" , https://wikipedia.org/wiki/Web3 , 2021.
 
-<a id="4">[4]</a>  Alik Xandro and others, "Purple Book of the Labor as Capital DAO", https://github.com/Labor-as-Capital-DAO/public-docs/blob/main/PurpleBook.md , 2025.
+<a id="4">[4]</a>  Alik Xandro with iol Academy and others, "Purple Book of the Labor as Capital DAO", https://github.com/Labor-as-Capital-DAO/public-docs/blob/main/PurpleBook.md , 2025.
 
 <a id="5">[5]</a>  Adam Back, "Hashcash - a denial of service counter-measure", http://hashcash.org, 2002. Satoshi Nakamoto, "Bitcoin: A Peer-to-Peer Electronic Cash System", http://bitcoin.org, 2008.
 
