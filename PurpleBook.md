@@ -635,15 +635,16 @@ Step-by-step instruction:
 
 - **Video-based**: $100 per minute.
 
-&nbsp;
-   **After the initial LaC Token price [[RMap-TInitPrice]](#RMap-TInitPrice) is determined:**
+&nbsp;  
+
+ &emsp; **After the initial LaC Token price [[RMap-TInitPrice]](#RMap-TInitPrice) is determined:**
   *{it is set by the signature holders of the Resource Wallet [[ResWallet]](#ResWallet) for MM [[MM]](#MM) after [[Instr-TokenAssign]](#Instr-TokenAssign)}*.
 
 &nbsp;  
 
 ### LaC Token for Media Partners during LaC-iol Synchronization
 
- &emsp; <a id="Instr-MMGetSin">[Instr-MMGetSin]</a>
+ &emsp; <a id="Instr-MMGetSin">[Instr-MMGetSin]</a>  
 
 (i) When your new material reaches the desired number of views and reactions for which you want to receive payment, send a rich text message in the NiXel app [[nxl]](#nxl) to the user with the username AlikX with the following content: “ulim \<the ULIM>”. Example message: **ulim https://lac.e-gove.net/ulim=XXX** .
 
