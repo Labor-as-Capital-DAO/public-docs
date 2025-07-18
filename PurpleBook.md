@@ -283,7 +283,7 @@ Channels not listed here are not controlled by the resources of Labor as Capital
 
 - [https://t.me/iolacademy](https://t.me/iolacademy) : Telegram group of the iol Academy. News and public information related to Internet of Labour.
 
-- [https://discord.gg/qnbCAUam](https://discord.gg/qnbCAUam) : Discord server of the iol Academy. News and public information related to Internet of Labour.
+- [https://discord.gg/gERy6VQ693](https://discord.gg/gERy6VQ693) : Discord server of the iol Academy. News and public information related to Internet of Labour.
 
 - [https://bitcointalk.org/index.php?topic=5545132.0](https://bitcointalk.org/index.php?topic=5545132.0) : Labor as Capital DAO topic on BitcoinTalk.
 
