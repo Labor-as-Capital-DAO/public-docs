@@ -129,7 +129,7 @@ The chart begins from the moment $P_0$ is calculated. Throughout the entire char
 
 A portion of Period A will be shown in **Chart 2** and examined in detail below in the sections "Organization" and "Governance." Those sections will also address the importance of avoiding scam manipulations like "Pump and Dump" and others.
 
-Thus, the ***progressive growth*** of the token price $P$ means that for any time $t_X$, there exists a $t_Y > t_X$ where $ P(t_Y) \geq P(t_X)$. This is the mathematical definition of **the main and ongoing goal of Labor as Capital DAO**.
+Thus, the ***progressive growth*** of the token price $P$ means that for any time $t_X$, there exists a $t_Y > t_X$ where $P(t_Y) \geq P(t_X)$. This is the mathematical definition of **the main and ongoing goal of Labor as Capital DAO**.
 
 &nbsp;
 
