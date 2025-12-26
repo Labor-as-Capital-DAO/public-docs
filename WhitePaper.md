@@ -497,7 +497,7 @@ For detailed information on the organization and governance of IASOS Labor as Ca
 
 <a id="10">[10]</a>  Almaz Khamatkhanov, https://LabourTime.com.au, 2012.
 
-<a id="11">[11]</a>  DDN, Service demo and special offer: https://youtu.be/nBwhkPhWzm4 , 2024.
+<a id="11">[11]</a>  DDN, Full version of the DDN's services presentation, https://youtu.be/fHGSosQiee8 , 2025.
 
 <a id="12">[12]</a>  DDN, "Terms and Conditions of Use of the NiXeL App", https://github.com/Distributed-Digital-Nomads/space.diamo.iol.nixel-distr/blob/main/docs/en/contractT0.htm , 2022.
 
