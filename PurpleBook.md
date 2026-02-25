@@ -317,7 +317,7 @@ A timeline chart of the Road Map is shown schematically below.
  
 To facilitate streamlined support for the Internet of Labour (iol) ecosystem and platform, bypassing the procedures and waiting periods outlined in this Purple Book, the following direct blockchain addresses of the ecosystem are now available:
 
-**Bitcoin** (Taproot): bc1p9x643nd5j9s4a6udy4m67qn3syf34dudscrz828cg8y3mvm9uvtse2qmqu
+**Bitcoin** (Taproot): [bc1p9x643nd5j9s4a6udy4m67qn3syf34dudscrz828cg8y3mvm9uvtse2qmqu](bc1p9x643nd5j9s4a6udy4m67qn3syf34dudscrz828cg8y3mvm9uvtse2qmqu)
 
 **Ethereum**: [0xeae783bb1552a389b819b4543a5f1e44fd744ff1](0xeae783bb1552a389b819b4543a5f1e44fd744ff1)
 
